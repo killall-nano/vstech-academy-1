@@ -35,6 +35,6 @@ Teachers dashboard and students dashboard are different(teachers: green, student
    `python manage.py runserver`
 
 ## Contact
-Email: o.jeff3.a@gmail.com
+Email: admin@vs-academy.tech
 Phone: [+254795067776](tel:+254795067776)
 website: [vs-academy.tech](http://vs-academy.tech)
