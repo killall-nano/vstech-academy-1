@@ -37,4 +37,4 @@ Teachers dashboard and students dashboard are different(teachers: green, student
 ## Contact
 Email: o.jeff3.a@gmail.com
 Phone: [+254795067776](tel:+254795067776)
-website: [vstech.live](http://vstech.live)
+website: [vs-academy.tech](http://vs-academy.tech)
